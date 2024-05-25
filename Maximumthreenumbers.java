@@ -11,3 +11,5 @@ public class MaxOfThreeNumbers {
  }
 
 }
+
+//added testcses
