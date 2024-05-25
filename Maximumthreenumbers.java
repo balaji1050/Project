@@ -2,7 +2,7 @@ public class MaxOfThreeNumbers {
 
  public static void main(String[] args) {
 
- int num1 = 10, num2 = 20, num3 = 15, max;
+ int num1 = 10, num2 = 20, num3 = 16, max;
 
  max = (num1 > num2) ? (num1 > num3 ? num1 : num3) : (num2 > num3 ? num2 : num3);
 
@@ -12,8 +12,4 @@ public class MaxOfThreeNumbers {
 
 }
 
-<<<<<<< HEAD
-//added testcses
-=======
-//merge conflict
->>>>>>> 90e96661c10c6222d43babd749fae576b0e6cde5
+
