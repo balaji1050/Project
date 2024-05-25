@@ -12,4 +12,8 @@ public class MaxOfThreeNumbers {
 
 }
 
+<<<<<<< HEAD
 //added testcses
+=======
+//merge conflict
+>>>>>>> 90e96661c10c6222d43babd749fae576b0e6cde5
